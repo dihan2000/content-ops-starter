@@ -7,7 +7,7 @@ sections:
       text: Discover Malaysia – Your Ultimate Travel Guide
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: come to enjoy
     text: >
       Welcome to \*\*Discover Malaysia\*\*, your gateway to stunning landscapes,
       rich culture, and vibrant cities. Explore \*\*Penang’s heritage
