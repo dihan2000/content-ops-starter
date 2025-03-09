@@ -9,9 +9,6 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      #
-
-
       Welcome to \*\*Discover Malaysia\*\*, your gateway to stunning landscapes,
       rich culture, and vibrant cities. Explore \*\*Penang’s heritage
       streets\*\*, \*\*Cameron Highlands’ tea plantations\*\*, and
